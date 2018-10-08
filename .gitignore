@@ -21,4 +21,7 @@ yarn-error.log*
 *.sw*
 
 # Mock data file
-Mock.vue
+# Mock.vue
+
+# dev config file
+# vue.config.js
